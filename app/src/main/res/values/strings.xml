@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Vasilev 303 Lab 03 Converter</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="infoName">Vasilev, 303</string>
+    <string name="infoFrom">From</string>
+    <string name="infoTo">To</string>
+    <string name="infoCov">Convert</string>
+    <string name="RadiobuttonMM">mm</string>
+    <string name="RadioButtonCM">CM</string>
+    <string name="RadioButtonmm">MM</string>
+    <string name="RadioButtonM">M</string>
+</resources>
